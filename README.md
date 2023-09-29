@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourena Mohit</h1>
 <h3 align="center">🤓 Currently, I'm a data sorcerer-in-training, pursuing my Master's in the mystical realms of Data Science and Artificial Intelligence. 🧙‍♂️ But that's just one chapter of my story.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madlancer&label=Profile%20views&color=0e75b6&style=flat" alt="madlancer" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madlancer" alt="madlancer" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science and AI Projects**
